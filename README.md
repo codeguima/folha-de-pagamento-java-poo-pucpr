@@ -12,9 +12,9 @@ Este é um exemplo simples de um projeto em Java, utilizando os conceitos de Pro
 
 Este projeto contém as seguintes classes e funcionalidades principais:
 
-1. **Classe `Funcionario`**: Representa uma pessoa com atributos como nome, idade e endereço.
-2. **Classe `Dependente`**: Herda de `Pessoa` e adiciona atributos como matrícula e curso.
-3. **Classe `Professor`**: Herda de `Pessoa` e adiciona atributos como especialidade e departamento.
+1. **Classe `Funcionario`**: Representa uma funcionario com atributos como codigo, salario e bonus.
+2. **Classe `FuncionarioConcursado`**: Herda de `Funcionario` e adiciona atributos como matrícula e curso.
+3. **Classe `FuncionarioTemporario`**: Herda de `Pessoa` e adiciona atributos como especialidade e departamento.
 4. **Classe `Main`**: Contém o método principal para rodar o programa e testar a funcionalidade das classes.
 
 ## Funcionalidades
