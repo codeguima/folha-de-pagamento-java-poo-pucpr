@@ -35,4 +35,4 @@ O projeto é dividido em três classes principais:
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/folha-pagamento-java.git
+https://github.com/codeguima/folha-de-pagamento-java-poo-pucpr.git
